@@ -1,0 +1,7 @@
+hello my name is Reham Habbas
+an IT student studying computer science in jordan university
+this is my first website using rails ruby language
+you can go throw this website and write any thing in your mind
+as an ideas
+welcome to my website !
+hope you enjoying on it 
